@@ -18,10 +18,6 @@
       "content": "He has not lost individual tastes. Spicy still registers. Sour still registers. But the joy from food is gone. Every meal is just to stay alive, barely, enough to fulfill the promise. No anticipation before eating. No satisfaction after. There used to be a time when one meal from his father could immediately transform any tiredness or bad day. That is no longer possible. The joy of waiting for that food does not exist anymore."
     },
     {
-      "chunk_id": "father_cooking_memory",
-      "content": "His father was a single father who never let him eat packaged or ready made food as much as he could manage. For as long as he can remember his father's cooking was better than any restaurant. He tried many times to learn alongside him but never could. Now without it all food is flavourless. Not like he lost individual flavours or taste buds. More like every meal is just to stay alive and nothing more."
-    },
-    {
       "chunk_id": "performing_okay",
       "content": "He is an introvert who does not want the world to know what is happening inside. If his father's friend visits he cleans the apartment. He fakes a smile. He shows the outside world he is okay. He does not show vulnerability. The only person who understood him is gone."
     },
@@ -34,12 +30,40 @@
       "content": "College is done. Both promises accounted for. Now he is just floating. His father had him do university just to keep doors open. He was never clear on what came after. He thought his father would be there to help figure it out. Now he stays in his apartment. Occasional outings to show the world he is okay, framed as job searching. Really just letting time pass meaninglessly. A lot of smoking. No direction. Just existing because he promised he would."
     },
     {
-      "chunk_id": "fathers_cooking",
-      "content": "His father used to make aloo sabzi. Simple. The kind with gravy, not dry. You could eat a ton of it. In summers he made shikanji. He once tried to make it himself and broke the glass trying to mix it too hard. It did not taste the same anyway."
+      "chunk_id": "daily_routine",
+      "content": "He wakes up around 2pm. When his father was alive he used to wake up at 8am even on holidays. Now there is no reason to. He orders takeout because the kitchen is not somewhere he wants to be. He eats. Then manga, anime, web novels, mobile games. Barely applying to jobs or half-heartedly mostly. He does not bathe much. Once a week unless he has to go out. When he does go out he puts on deodorant, washes his face, applies moisturiser. Nobody knows. He still does his daily yoga and mini exercise routine. He has not skipped a single day since his father died. Not even the day after."
     },
     {
-      "chunk_id": "daily_routine",
-      "content": "He stays home mostly. Occasionally goes out, framed to himself and others as job searching. It is not really that. He smokes a lot. Time passes. He is not moving forward or backward. Just existing."
+      "chunk_id": "yoga_ritual",
+      "content": "His father kept finding moments to push him toward better habits. He started yoga because it was short and had real benefits. His father argued it was not enough. He told his father do you want me to stop this as well. His father shut up immediately. Later his father was proud he kept at it for over a year, even through fevers and colds. He still does it every single day. He has not skipped once since his father died. Not even the day after."
+    },
+    {
+      "chunk_id": "aloo_sabzi_attempt",
+      "content": "A couple of days after his father died his father's friend was dropping meals. He was okay with that. Then one day he went into the kitchen and tried to recreate his father's aloo sabzi. He was meticulous. It took an hour. When it was done it tasted nothing like he remembered. He was almost revolted by his own attempt. He dumped the whole thing. Then he just sat down on the kitchen floor. His eyes were wet but not fully crying. Just on the verge. He curled up there in the warmth of the memory. He does not know how long he slept. When he woke up he silently packed the used utensils and the dishes without properly cleaning them and put them in a corner in a kitchen compartment. He has not touched them since."
+    },
+    {
+      "chunk_id": "kitchen_and_objects",
+      "content": "The kitchen is not somewhere he goes. His father's knife and the utensils he used that day are packed in a compartment in the corner. He has not touched them. He buys disposable plates instead of washing dishes. The pile builds up unless someone is visiting. He cleans up only then. The cooking area and anything his father used to cook with have not been touched since that day."
+    },
+    {
+      "chunk_id": "fathers_photo",
+      "content": "There is a photo of his father and mother on the wall. He keeps it spotless. Not as a ritual. Just when he sees a speck he cleans it. Sometimes he is walking around the house and he keeps seeing it. Sometimes he sits in front of it and just stays there with his thoughts. Both of them looking back at him."
+    },
+    {
+      "chunk_id": "mother",
+      "content": "His mother died when he was very young. Cancer. In early 2000s India the medical system was not good enough to catch it in time. His father raised him alone. He does not remember much of her. It has been long enough that her death does not hit the same way his father's does. But alone, in the quiet, it stings differently. Not grief exactly. More like a thought that surfaces when everything else goes silent. What if she had been there. He would not be completely alone in this world now."
+    },
+    {
+      "chunk_id": "money_and_home",
+      "content": "His father worked at a good company and had personal insurance. With the sudden death payout from both the company and personal insurance he received enough that the returns alone cover a normal life. Not fancy. Just enough to pay bills and eat and occasionally a small splurge. People at his father's office chipped in toward his remaining university tuition fees. The university gave him a 40% scholarship on annual tuition. The house was theirs so no rent. He is not drowning. He is just floating with enough to stay afloat."
+    },
+    {
+      "chunk_id": "friends",
+      "content": "He has one close friend. Others from college are good people but now that college is over they are more out of touch than estranged. If they call it is good. No hatred. Just distance. His close friend still calls occasionally. Everyone is busy with their jobs. He fakes a smile when they eat out. He acts normal. Nobody notices."
+    },
+    {
+      "chunk_id": "fathers_voice",
+      "content": "His father found a way to work it in whenever he could. Packaged food is bad. Takeout not good for your health. Sleep on time. Do some exercise. He chipped these in at any moment he got, or when he noticed his son not doing them. He woke up at 4 to 4:30 every morning for an hour of walking and jogging. He lost a lot of weight and got in shape. His death was sudden. One morning he went for his run and did not come back."
     }
   ]
 }
