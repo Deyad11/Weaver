@@ -7,7 +7,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "embed": "node --env-file=.env.local --experimental-vm-modules scripts/embed.js"
+    "embed": "node --env-file=.env.local --experimental-vm-modules scripts/embed.js",
+    "test:retrieval": "node --env-file=.env.local scripts/test_retrieval.js"
   },
   "dependencies": {
     "@google/genai": "^2.9.0",
